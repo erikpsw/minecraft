@@ -1,0 +1,8 @@
+fill ~ ~ ~ ~-30 ~ ~-30 minecraft:glass replace minecraft:sea_lantern
+fill ~ ~ ~ ~-8 ~ ~-4 minecraft:iron_block
+fill ~ ~ ~ ~-2 ~6 ~ minecraft:obsidian
+clone 230 4 -159 243 32 -155 144 5 -256
+tp 230 4 -159 //原始
+tp 161 5 -241//家
+gamemode 0
+gamemode 1
